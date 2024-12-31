@@ -1,0 +1,30 @@
+﻿  bejewled-blitzzz.cpp
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\help.h(126,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\help.h(126,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(141,26): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(326,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(430,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(430,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(433,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(434,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(434,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(436,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(441,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(446,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(451,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(457,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(462,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(465,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(468,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(471,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(514,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(524,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(538,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(541,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(543,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(544,23): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(71): warning C4715: 'difficulty': not all control paths return a value
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(234): warning C4715: 'firejewelmaker': not all control paths return a value
+C:\Users\Abdul Moiz\OneDrive\Desktop\Real Game\bejewled-blitzzz.cpp(203): warning C4715: 'cubejewelmaker': not all control paths return a value
+  Bejewel blitzz real game.vcxproj -> C:\Users\Abdul Moiz\OneDrive\Desktop\Bejewel blitzz real game\Debug\Bejewel blitzz real game.exe
